@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# folders
+
+data/
+zipmicrodata/
+
+# files
+
+2010_2020_microdata_inep_censo_superior.csv
